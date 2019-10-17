@@ -1,0 +1,18 @@
+- title: Sunday Exhibition
+  url: google.com
+  img: https://placekitten.com/g/200/200
+  starts: Nov 1
+  ends: Nov 11
+  venue: there
+  tags:
+    - sunday fun times
+    - exhibition
+
+- title: Thing two
+  url: google.com
+  img: https://placekitten.com/g/200/200
+  starts: Nov 2
+  ends: Nov 22
+  venue: other
+  tags:
+    - exhibition
